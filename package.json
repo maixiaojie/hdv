@@ -1,8 +1,8 @@
 {
-  "name": "hd-ui",
+  "name": "hdv",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/hd-ui.js",
+  "main": "lib/hdv.js",
   "style": "lib/index.css",
   "files": [
     "lib",

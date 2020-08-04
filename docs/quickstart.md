@@ -4,8 +4,8 @@
 
 ```bash
 # 通过 npm 安装
-npm i hd-ui -S
+npm i hdv -S
 
 # 通过 yarn 安装
-yarn add hd-ui
+yarn add hdv
 ```

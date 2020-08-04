@@ -1,16 +1,17 @@
 module.exports = {
-  name: 'hd-ui',
+  name: 'hdv',
   build: {
     css: {
       preprocessor: 'sass',
     },
     site: {
-      publicPath: '/hd-ui/',
+      publicPath: '/hdv/',
     },
   },
   site: {
-    title: 'hd-ui',
-    logo: 'https://yxs-app.oss-cn-beijing.aliyuncs.com/88bbaac5b8c9bfd6ffa1188318049ed8',
+    title: 'hdv',
+    logo: 'https://yxs-web.oss-cn-beijing.aliyuncs.com/f30c4a1439d57ee03c250aad9b38cfd8.png',
+    description: '轻量、可靠的移动端 Vue 组件库',
     nav: [
       {
         title: '开发指南',
