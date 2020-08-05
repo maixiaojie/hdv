@@ -13,7 +13,7 @@
     "test": "vant-cli test",
     "lint": "vant-cli lint",
     "build": "vant-cli build",
-    "release": "vant-cli release",
+    "release": ". release.sh",
     "test:coverage": "open test/coverage/index.html",
     "build-site": "vant-cli build-site && gh-pages -d site"
   },
